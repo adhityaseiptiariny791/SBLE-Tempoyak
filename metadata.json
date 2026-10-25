@@ -1,0 +1,6 @@
+{
+  "name": "Smart Bio-Learning Environment (SBLE)",
+  "description": "Media pembelajaran interaktif IPA SMP materi Bioteknologi berbasis kearifan lokal Lampung (Fermentasi Tempoyak Durian) untuk meningkatkan berpikir kritis dan sikap ilmiah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
